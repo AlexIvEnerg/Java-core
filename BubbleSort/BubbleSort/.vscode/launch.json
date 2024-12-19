@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BubbleSortingTest",
+            "request": "launch",
+            "mainClass": "${main}"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSorter",
+            "request": "launch",
+            "mainClass": "BubbleSortingTest",
+            "projectName": "BubbleSort"
+        }//,
+        /*{
+            "type": "java",
+            "name": "BubbleSortingTest",
+            "request": "launch",
+            "mainClass": "BubbleSortingTest",
+            "projectName": "BubbleSort_6dab06f"
+        } */
+    ]
+}
